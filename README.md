@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋,  Jayasri here
+#### Front -End Developer
+![Front -End Developer](https://drive.google.com/file/d/1_VH0sqSh71mzoFbzRiyuszrQ17eUcObo/view)
 
-<!--
-**jayasri2000/jayasri2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT undergrad, in love with designing websites. I really enjoy learning languages and frameworks like React. Usually I am good in meeting deadlines.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
