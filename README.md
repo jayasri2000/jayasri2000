@@ -1,12 +1,22 @@
-### Hi there 👋,  Jayasri here
-#### Front -End Developer
 ![Front -End Developer](https://github.com/jayasri2000/jayasri2000/blob/main/My%20Post.png)
+### Hi there 👋, This is Jayasri.
+#### Your next door Front -End Developer.
 
 I am an IT undergrad, in love with designing websites. I really enjoy learning languages and frameworks like React. Usually I am good in meeting deadlines.
 
-Skills: REACT / JS / HTML / CSS
+#### Skills:
+-📱 REACT
+-💻JS / HTML / CSS
+-☕JAVA
 
-- 🔭 I’m currently working on this page. 
+- 📨Reach me at: jayasri.dey9@gmail.com 
+- ⚡ Fun fact: Schrodinger's cat might just be sleeping. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jayasri2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Jayasri Dey/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Jayasri Dey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_._a_whim_.away._/)  
+
+
+ 
 
 
 
