@@ -1,7 +1,6 @@
 ![Front -End Developer](https://github.com/jayasri2000/jayasri2000/blob/main/My%20Post.png)
-### Hi there 👋, This is Jayasri.
+###  This is Jayasri.![hp](https://github.com/jayasri2000/jayasri2000/blob/main/HP%20(1).jpg)
 #### Your next door Front -End Developer.
-
 I am an IT undergrad, in love with designing websites. I really enjoy learning languages and frameworks like React. Usually I am good in meeting deadlines.
 
 #### Skills:
@@ -11,7 +10,6 @@ I am an IT undergrad, in love with designing websites. I really enjoy learning l
 
 - 📨Reach me at: jayasri.dey9@gmail.com 
 - ⚡ Fun fact: Schrodinger's cat might just be sleeping. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jayasri2000)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jayasri-dey-55625918b/) 
