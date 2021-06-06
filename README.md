@@ -13,7 +13,7 @@ I am a 3rd year undergrad, in love with designing websites. I really enjoy learn
 
 
 - 📨Reach me at: jayasri.dey9@gmail.com 
-- ⚡ Fun fact: Schrodinger's cat might just be sleeping. 
+- ⚡ Fun fact: The original star wars had the original 'higher-ground'. 
 - 🌱 I’m currently learning [React Native](https://reactnative.dev/) and [JavaScript](https://www.javascript.com/).
 - 👯 I’m looking to collaborate on Front-end Development Projects using javascript.
 - 📥 Lets connect at [Linked In](https://www.linkedin.com/in/jayasri-dey-55625918b/) ,[Faceook](https://www.facebook.com/Jayasri.dey6/) and [Instagram](https://www.instagram.com/_._a_whim_.away._/)  
