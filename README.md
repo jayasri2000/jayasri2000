@@ -1,5 +1,5 @@
 ![Front -End Developer](https://github.com/jayasri2000/jayasri2000/blob/main/My%20Post.png)
-![hp](https://github.com/jayasri2000/jayasri2000/blob/main/HP%20(1).jpg)###  This is Jayasri.!
+### ![hp](https://github.com/jayasri2000/jayasri2000/blob/main/HP%20(1).jpg)  This is Jayasri.!
 #### Your next door Front -End Developer.
 I am an IT undergrad, in love with designing websites. I really enjoy learning languages and frameworks like React. Usually I am good in meeting deadlines.
 
