@@ -3,7 +3,7 @@
 #### Your next door Front -End Developer.
 I am an IT undergrad, in love with designing websites. I really enjoy learning languages and also frameworks like React. Usually I am good in meeting deadlines.
 
-<img align="right" alt="yoda" src="https://github.com/jayasri2000/jayasri2000/blob/main/yoda.gif" />
+<img align="right" alt="yoda" width="20" height="20" src="https://github.com/jayasri2000/jayasri2000/blob/main/aroows.gif" />
 <p align="left">
 #### Skills:
 -📱 REACT
@@ -28,8 +28,8 @@ I am an IT undergrad, in love with designing websites. I really enjoy learning l
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Jayasri.dey6/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_._a_whim_.away._/)  
 
-<p align='centre'>
-![footer](https://github.com/jayasri2000/jayasri2000/blob/main/dino.gif)</p>
+
+![footer](https://github.com/jayasri2000/jayasri2000/blob/main/dino.gif)
 
 
 
