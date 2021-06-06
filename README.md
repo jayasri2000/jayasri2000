@@ -16,6 +16,7 @@ I am an IT undergrad, in love with designing websites. I really enjoy learning l
 - ⚡ Fun fact: Schrodinger's cat might just be sleeping. 
 - 🌱 I’m currently learning [React Native](https://reactnative.dev/) and [JavaScript](https://www.javascript.com/).
 - 👯 I’m looking to collaborate on Front-end Development Projects using javascript.
+- 📥 Lets connect at [Linked In]((https://www.linkedin.com/in/jayasri-dey-55625918b/)) ,[Faceook](https://www.facebook.com/Jayasri.dey6/) and [Instagram](https://www.instagram.com/_._a_whim_.away._/)  
   </p>
   <p align=right>
 <img  alt="yoda" width="105" height="105" src="https://github.com/jayasri2000/jayasri2000/blob/main/yoda.gif" />
@@ -27,14 +28,14 @@ I am an IT undergrad, in love with designing websites. I really enjoy learning l
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasri2000&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   
 </a>
-## &#x1f4c8; Let's Connect
+##  Let's Connect
 -[Linked In]((https://www.linkedin.com/in/jayasri-dey-55625918b/))
 -[Faceook](https://www.facebook.com/Jayasri.dey6/) 
 -[Instagram](https://www.instagram.com/_._a_whim_.away._/)  
   
 
 
- <img align="right" alt="yoda" width="1000" height="150" src="https://github.com/jayasri2000/jayasri2000/blob/main/dino.gif" />
+ ## May the force be with you!!
 
 
 
