@@ -25,7 +25,7 @@ I am a 3rd year undergrad, in love with designing websites. I really enjoy learn
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/jayasri2000/jayasri2000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasri2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasri2000&hide=Python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   
 </a>
 
