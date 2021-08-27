@@ -1,7 +1,7 @@
 ![Front -End Developer](https://github.com/jayasri2000/jayasri2000/blob/main/My%20Post.png)
 ### ![hp](https://github.com/jayasri2000/jayasri2000/blob/main/HP__1_-removebg-preview.png)  This is Jayasri.!
 #### Your next door Front -End Developer.
-I am a 3rd year undergrad, in love with designing websites. I really enjoy learning languages and also frameworks like React. Usually I am good in meeting deadlines. Currently I am studying B-Tech in Information Technology.
+I am a 4th year undergrad, in love with designing websites. I really enjoy learning languages and also frameworks like React. Usually I am good in meeting deadlines. Currently I am studying B-Tech in Information Technology.
 
 
 <p align="left">
